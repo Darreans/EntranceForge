@@ -1,0 +1,15 @@
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.csproj.AssemblyReference.cache
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\MyPluginInfo.cs
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.GeneratedMSBuildEditorConfig.editorconfig
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.AssemblyInfoInputs.cache
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.AssemblyInfo.cs
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.csproj.CoreCompileInputs.cache
+F:\EntranceForge\EntranceForge\bin\Debug\net6.0\EntranceForge.deps.json
+F:\EntranceForge\EntranceForge\bin\Debug\net6.0\EntranceForge.dll
+F:\EntranceForge\EntranceForge\bin\Debug\net6.0\EntranceForge.pdb
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.dll
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\refint\EntranceForge.dll
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\EntranceForge.pdb
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\ref\EntranceForge.dll
+F:\EntranceForge\EntranceForge\bin\Debug\net6.0\Bloodstone.dll
+F:\EntranceForge\EntranceForge\obj\Debug\net6.0\Entrance.2028AE5A.Up2Date
