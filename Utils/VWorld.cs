@@ -24,8 +24,8 @@ namespace EntranceForge.Utils
         {
             get
             {
-                if (_entityManager != default && (_serverWorld == null || !_serverWorld.IsCreated)) _entityManager = default; // Stale EM
-                if (_entityManager == default && Server != null) _entityManager = Server.EntityManager; // Attempt to refresh
+                if (_entityManager != default && (_serverWorld == null || !_serverWorld.IsCreated)) _entityManager = default; 
+                if (_entityManager == default && Server != null) _entityManager = Server.EntityManager; 
                 return _entityManager;
             }
         }
